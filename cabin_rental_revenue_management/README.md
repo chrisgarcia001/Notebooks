@@ -1,6 +1,6 @@
 # Optimizing Vacation Cabin Rental Revenues
 
-This notebook demonstrates how to use one aspect of Revenue Management, optimal capacity allocation, to maximize 
+This notebook demonstrates how to use one aspect of Revenue Management (RM), optimal capacity allocation, to maximize 
 revenues attained by renting out vacation cabins over a long weekend. In this example we have 3 small cabins, 5 medium cabins, 
 and 3 large cabins that we can rent out. We are also provided with a demand forecast and best prices for the
 available rental slots over the weekend. We compare two integer programming-based optimization policies (one that allows larger cabins to
