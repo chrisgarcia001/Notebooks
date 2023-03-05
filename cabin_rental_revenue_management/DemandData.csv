@@ -1,0 +1,8 @@
+Rental Period,Small,Medium,Large
+Fri-Sat,1,2,0
+Fri-Sun,2,2,1
+Fri-Mon,0,1,0
+Sat-Sun,1,0,0
+Sat-Mon,3,0,0
+Sun-Mon,2,0,1
+Mon-Wed,2,0,1
