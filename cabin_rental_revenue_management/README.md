@@ -8,5 +8,5 @@ substitute for smaller ones when advantageous, and another that does not) agains
 policy to demonstrate the impact RM can have on revenues. 
 
 
-This example uses the [PuLP](https://coin-or.github.io/pulp/) package modeling and solving the integer programming 
+This example uses the [PuLP](https://coin-or.github.io/pulp/) package for modeling and solving the integer programming 
 optimization model.
